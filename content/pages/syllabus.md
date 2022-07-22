@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, requirements, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: bd78c821-de5a-7f75-ec96-13cd106345e8
 ---
@@ -67,4 +71,4 @@ Final Exercise
 
 {{< tableclose >}}
 
-Research memos count toward class participation. To learn about the memos and other assignments, please see the [Assignments section]({{< baseurl >}}/pages/assignments).
+Research memos count toward class participation. To learn about the memos and other assignments, please see the {{% resource_link 88c7cc9a-cbaa-1015-9c3b-3259bc3b736f "Assignments section" %}}.

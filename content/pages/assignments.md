@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the three short essays, take-home
+  exercise, and weekly research abstracts assigned for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 88c7cc9a-cbaa-1015-9c3b-3259bc3b736f
 ---
