@@ -2,7 +2,8 @@
   "term": "Fall",
   "year": "2011",
   "level": [
-    "Graduate"
+    "Graduate",
+    "Undergraduate"
   ],
   "topics": [
     [
@@ -34,6 +35,7 @@
     "website": "17-418-field-seminar-international-relations-theory-fall-2011"
   },
   "learning_resource_types": [],
-  "site_uid": "93cd88c8-79cd-45e4-9154-c7eef1130718",
+  "site_uid": "0efaa852-e363-4e8c-8eae-7bc343bbbbc3",
+  "short_id": "17.418-fall-2011",
   "title": "Course Metadata"
 }
